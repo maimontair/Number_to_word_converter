@@ -7,7 +7,7 @@ Python 2.7
 pytest
 
 ## To Run
-python number_converter
+python number_converter.py
 
 ## To Run the Tests
 Make sure to pip install pytest
