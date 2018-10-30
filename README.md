@@ -3,14 +3,16 @@ The following program takes a number as input and returns that number written in
 
 ## Requirements
 Python 2.7
+
 pytest
 
 ## To Run
 python number_converter
 
 ## To Run the Tests
-Make sure to pip install pytest.
- From the root of the project run 'pytest'
+Make sure to pip install pytest
+
+From the root of the project run 'pytest'
 
 ### Assumptions made:
 1) Leading zeros can be ignored
